@@ -1,1 +1,1 @@
-# vividly
+# Vividly TV Player
